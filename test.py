@@ -1,16 +1,20 @@
 """
-Write python code for finding sum for given numbers
+Write python code for finding subract for given numbers
+
 """
 
-def find_sum(num1, num2):
-    sum = num1 + num2
-    return sum
+
+def sub(x, y):
+    return x - y
 
 
-print(find_sum(10, 20))
+print(sub(10, 5))
 
-def find_sum(num1, num2):
-    sum = num1 + num2
-    return sum
 
-print(find_sum(10, 20))
+"""
+Write python code for finding division for given numbers
+
+"""
+
+
+
