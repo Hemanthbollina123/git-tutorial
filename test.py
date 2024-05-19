@@ -18,8 +18,3 @@ Write python code for finding division for given numbers
 
 
 
-def div(x, y):
-    return x / y
-
-
-print(div(10, 5))
